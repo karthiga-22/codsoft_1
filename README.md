@@ -1,5 +1,6 @@
 
-🎯 CodSoft Internship – Task 2
+🎯 CodSoft Internship – Task 2 Completed
+
 💬 Rule-Based Chatbot using Python
 
 As part of Task 2 in my CodSoft Internship, I built a simple rule-based chatbot in Python that interacts with users using pattern recognition and conditional logic.
